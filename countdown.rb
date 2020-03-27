@@ -3,6 +3,7 @@
 def countdown(seconds)
   
   while (condition)
-  puts "#{seconds} "
+  puts "#{seconds} SECOND(S)!"
+  
 end
 end
